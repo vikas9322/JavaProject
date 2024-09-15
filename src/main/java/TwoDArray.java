@@ -7,7 +7,7 @@ public class TwoDArray {
         int totalStudent = 4;
         int totalMarks = 6;
 
-        String[][] studentMarks = new String[3][6];
+        String[][] studentMarks = new String[totalStudent][totalMarks];
 
         studentMarks[0][0] = "Ganesh";
         studentMarks[0][1] = "1";
